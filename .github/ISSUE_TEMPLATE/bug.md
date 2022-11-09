@@ -2,7 +2,7 @@
 name: Bug
 about: Report an issue
 title: 'BUG -'
-labels: 'type:bug'
+labels: 'type:bug :bug:,priority:2'
 assignees: ''
 
 ---

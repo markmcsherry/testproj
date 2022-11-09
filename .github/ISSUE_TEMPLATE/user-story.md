@@ -16,7 +16,7 @@ And a few more details...
 ---
 
 ### Design
-What's it going to llok like
+What's it going to look like
 
 ### Acceptance Criteria
 ...
