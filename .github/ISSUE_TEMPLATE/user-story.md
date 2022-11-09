@@ -1,7 +1,7 @@
 ---
 name: User Story
-about: User Story
-title: 'US:'
+about: New Feature details
+title: 'US -'
 labels: 'type:user-story'
 assignees: ''
 
