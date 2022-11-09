@@ -2,7 +2,7 @@
 name: User Story
 about: New Feature details
 title: 'US -'
-labels: 'type:user-story'
+labels: 'type:user-story :moneybag:,priority:2'
 assignees: ''
 
 ---
